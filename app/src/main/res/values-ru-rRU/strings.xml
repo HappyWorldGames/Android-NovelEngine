@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Novel Engine</string>
+    <string name="create_project">Создать Проект</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="name_project">Имя Проекта</string>
+    <string name="package_name">Имя Пакета</string>
+    <string name="request_permission_button">Дать разрешение</string>
+    <string name="request_permission">Этому приложению нужно разрешение на запись.</string>
+</resources>

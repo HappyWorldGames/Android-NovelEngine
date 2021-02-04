@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Novel Engine</string>
+
+    <string name="create_project">Create Project</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_project">Name Project</string>
+    <string name="package_name">Package Name</string>
+    <string name="request_permission">This app needed permission Write to External Storage for Working.</string>
+    <string name="request_permission_button">Take permission</string>
+
+</resources>
